@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /style-guide/
+Disallow: /components/
+Disallow: /booking/thank-you/
+Disallow: /give/thank-you/
+Disallow: /newsletter/confirmed/
+
+Sitemap: https://praiseflow-demo.pages.dev/sitemap.xml

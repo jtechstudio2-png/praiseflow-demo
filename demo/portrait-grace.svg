@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3e3c4"/>
+      <stop offset="1" stop-color="#c98e5a"/>
+    </linearGradient>
+    <radialGradient id="light" cx="30%" cy="20%" r="70%">
+      <stop offset="0" stop-color="#fff8e8" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#fff8e8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="2000" fill="url(#bg)"/>
+  <rect width="1600" height="2000" fill="url(#light)"/>
+  <!-- abstract figure: head wrap, head, shoulders -->
+  <g fill="#3a2230">
+    <ellipse cx="820" cy="610" rx="250" ry="210"/>
+    <ellipse cx="800" cy="860" rx="200" ry="240"/>
+    <rect x="720" y="1040" width="160" height="200" rx="60"/>
+    <path d="M220 2000c40-420 280-700 580-720 300 20 540 300 580 720Z"/>
+  </g>
+  <path d="M570 560c80-140 400-160 500 0" stroke="#d9a441" stroke-width="28" fill="none" stroke-linecap="round"/>
+  <path d="M220 2000c40-420 280-700 580-720 300 20 540 300 580 720Z" fill="#4b2a6b" opacity=".55"/>
+</svg>

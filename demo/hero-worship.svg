@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="glow" cx="68%" cy="38%" r="60%">
+      <stop offset="0" stop-color="#f6d58e"/>
+      <stop offset=".18" stop-color="#d9a441" stop-opacity=".85"/>
+      <stop offset=".45" stop-color="#6b3a7d" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#140c1c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a1638"/>
+      <stop offset="1" stop-color="#0f0b14"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6d58e" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#f6d58e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="2400" height="1600" fill="url(#bg)"/>
+  <rect width="2400" height="1600" fill="url(#glow)"/>
+  <g fill="url(#beam)">
+    <polygon points="1600,0 1700,0 2100,1600 1500,1600"/>
+    <polygon points="1520,0 1560,0 1300,1600 1100,1600" opacity=".6"/>
+    <polygon points="1780,0 1820,0 2400,1300 2400,1600" opacity=".5"/>
+  </g>
+  <!-- crowd silhouette with raised hands -->
+  <g fill="#0b0810">
+    <path d="M0 1600V1330c80-30 140-20 200 10 40-90 90-100 130-40l20-180 30 0 10 190c50-40 110-30 150 30 60-60 130-50 170 10 30-80 70-90 100-40l40-230 30 2 0 250c60-30 120-20 170 30 50-50 120-60 170-10 40-60 110-70 160-20l30-210 30 4-5 230c60-20 110 0 150 40 60-70 140-70 190-10 40-50 100-50 140-10l50-260 30 6-20 270c50-10 90 10 130 50 50-40 110-40 160 0V1600Z"/>
+  </g>
+  <g fill="#f6d58e" opacity=".55">
+    <circle cx="420" cy="380" r="2"/><circle cx="780" cy="220" r="1.5"/><circle cx="1040" cy="460" r="2.5"/>
+    <circle cx="1980" cy="180" r="2"/><circle cx="2200" cy="520" r="1.5"/><circle cx="1320" cy="300" r="1.5"/>
+  </g>
+</svg>

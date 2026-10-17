@@ -1,0 +1,29 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/3chk6lwqgif0_.js"
+4:"/_next/static/chunks/3200suh9y4s4w.js"
+5:"/_next/static/chunks/28devnpvy0x8i.js"
+6:I[39756,["$3","$4","$5"],"default"]
+7:I[37457,["$3","$4","$5"],"default"]
+c:I[22016,["$3","$4","$5"],""]
+d:I[5014,["$3","$4","$5"],"default"]
+e:I[97367,["$3","$4","$5"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$3","$4","$5"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$3","$4","$5"],"$14"]
+16:I[27201,["$3","$4","$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto w-full px-5 lg:px-8 max-w-narrow py-40 text-center lg:py-56","children":[["$","div",null,{"aria-hidden":true,"className":"flex items-center justify-center gap-4 text-accent mb-10","children":[["$","span",null,{"className":"h-px w-16 bg-current opacity-50"}],["$","svg",null,{"viewBox":"0 0 24 24","className":"size-4","fill":"currentColor","children":["$","path",null,{"d":"M12 0l2.4 7.2L21 3l-4.2 6.6L24 12l-7.2 2.4L21 21l-6.6-4.2L12 24l-2.4-7.2L3 21l4.2-6.6L0 12l7.2-2.4L3 3l6.6 4.2Z"}]}],["$","span",null,{"className":"h-px w-16 bg-current opacity-50"}]]}],["$","p",null,{"className":"text-eyebrow font-semibold text-accent-ink uppercase","children":"404"}],["$","h1",null,{"className":"mt-4 text-h1","children":"This page has wandered off."}],["$","p",null,{"className":"mx-auto mt-5 max-w-md text-lead text-ink-muted","children":"It may have moved, or it’s still being prepared. Let’s get you back home."}],["$","$Lc",null,{"href":"/","className":"inline-flex shrink-0 items-center justify-center rounded-full font-semibold whitespace-nowrap transition-[background-color,border-color,filter,transform] duration-150 ease-out active:scale-[0.98] disabled:pointer-events-none disabled:opacity-45 bg-primary text-on-primary hover:brightness-110 shadow-sm h-11 px-6 text-body gap-2 mt-10","children":[["$","$Ld",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"size-4","aria-hidden":true}],"Back to home",false]}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$a"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#fbf8f3","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0f0b14","media":"(prefers-color-scheme: dark)"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found | Grace Adeyemi"}],["$","meta","1",{"name":"description","content":"Worship leader Grace Adeyemi serves churches in 30+ nations. Invite Grace to your event, join an upcoming worship night or partner with our outreach."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","link","3",{"rel":"canonical","href":"https://praiseflow-demo.pages.dev/"}],["$","meta","4",{"property":"og:title","content":"Grace Adeyemi"}],["$","meta","5",{"property":"og:description","content":"Worship leader Grace Adeyemi serves churches in 30+ nations. Invite Grace to your event, join an upcoming worship night or partner with our outreach."}],["$","meta","6",{"property":"og:url","content":"https://praiseflow-demo.pages.dev/"}],["$","meta","7",{"property":"og:site_name","content":"Grace Adeyemi"}],["$","meta","8",{"property":"og:locale","content":"en_GB"}],["$","meta","9",{"property":"og:image","content":"https://praiseflow-demo.pages.dev/og.png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"Grace Adeyemi"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Grace Adeyemi"}],["$","meta","16",{"name":"twitter:description","content":"Worship leader Grace Adeyemi serves churches in 30+ nations. Invite Grace to your event, join an upcoming worship night or partner with our outreach."}],["$","meta","17",{"name":"twitter:image","content":"https://praiseflow-demo.pages.dev/og.png"}],["$","meta","18",{"name":"twitter:image:alt","content":"Grace Adeyemi"}],["$","meta","19",{"name":"twitter:image:width","content":"1200"}],["$","meta","20",{"name":"twitter:image:height","content":"630"}],["$","link","21",{"rel":"icon","href":"/icon.svg?icon.1g0j_m1isa8m_.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","22",{}]]}]}],null]}],null]}],"p":"$@17","v":null,"s":"$a"}},"a":"$@18","u":"$@19","b":"H-1hgttPUWiy2HXAuaMnR"}
+10:null
+19:true
+a:300
+a:C
+18:0
+8:"$undefined"
+17:"$undefined"
+11:"$undefined"
