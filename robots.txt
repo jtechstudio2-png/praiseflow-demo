@@ -6,4 +6,4 @@ Disallow: /booking/thank-you/
 Disallow: /give/thank-you/
 Disallow: /newsletter/confirmed/
 
-Sitemap: https://praiseflow-demo.pages.dev/sitemap.xml
+Sitemap: https://jtechstudio2-png.github.io/praiseflow-demo/sitemap.xml

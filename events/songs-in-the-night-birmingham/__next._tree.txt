@@ -1,7 +1,7 @@
-:HL["/_next/static/media/fraunces_latin_opsz_italic.p.09l6e6sk-66_f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/fraunces_latin_opsz_normal.p.17h97bimeg07z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/manrope_latin_wght_normal.p.1p_a2k8qd5zhp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/praiseflow-demo/_next/static/media/fraunces_latin_opsz_italic.p.09l6e6sk-66_f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/praiseflow-demo/_next/static/media/fraunces_latin_opsz_normal.p.17h97bimeg07z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/praiseflow-demo/_next/static/media/manrope_latin_wght_normal.p.1p_a2k8qd5zhp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"songs-in-the-night-birmingham","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"events","h":131136,"c":"$Q2"}]]
-0:{"b":"H-1hgttPUWiy2HXAuaMnR","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"lYxs3bxrZtjh_LsbddaGm","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
